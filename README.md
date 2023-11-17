@@ -42,7 +42,6 @@ At DeVos, we don't just contribute to our businesses; we contribute to shaping a
    
    - Joined us on <a href="#" target="_blank"> <img src="https://github.com/DeVos0/DeVos0/blob/main/whatsapp.png" width="20"> To contribute on our mission</a>
    
-   - ![Twitter](images/twitter-icon.png) [Follow us on Twitter](https://twitter.com/DeVosTech)
 
 6. **Contribute to Open Source:**
    - Explore our [GitHub Repositories](https://github.com/DeVosTech) and contribute to open-source projects.
