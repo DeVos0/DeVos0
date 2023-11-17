@@ -26,6 +26,11 @@ At DeVos, we don't just contribute to our businesses; we contribute to shaping a
    -  <img src="https://github.com/DeVos0/DeVos0/blob/main/linkedin.png" width="18">[](#)
    - <img src="https://github.com/DeVos0/DeVos0/blob/main/telegram.png" width="18">[](#)
    - <img src="https://github.com/DeVos0/DeVos0/blob/main/whatsapp.png" width="18"> [](#)
+   - <a href="#" target="_blank"><img src="https://github.com/DeVos0/DeVos0/blob/main/discord.png" width="20"></a>
+   - <a href="#" target="_blank"><img src="https://github.com/DeVos0/DeVos0/blob/main/linkedin.png" width="20"></a>
+   - <a href="#" target="_blank"><img src="https://github.com/DeVos0/DeVos0/blob/main/telegram.png" width="20"></a>
+   - <a href="#" target="_blank"><img src="https://github.com/DeVos0/DeVos0/blob/main/whatsapp.png" width="20"></a>
+
 
 
     
