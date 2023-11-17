@@ -38,10 +38,10 @@ At DeVos, we don't just contribute to our businesses; we contribute to shaping a
 
 4. **Connect with Us:**
 
-   -  <div class="social-icons-row">
-      Follow us on <a href="#" target="_blank"><img src="https://github.com/DeVos0/DeVos0/blob/main/x.png" width="20">for the latest updates</a>
-      Joined us on <a href="#" target="_blank"><img src="https://github.com/DeVos0/DeVos0/blob/main/whatsapp.png" width="20">To contribute on our mission</a>
-      </div>
+   - Follow us on <a href="#" target="_blank"><img src="https://github.com/DeVos0/DeVos0/blob/main/x.png" width="20">for the latest updates</a>
+   
+   - Joined us on <a href="#" target="_blank"><img src="https://github.com/DeVos0/DeVos0/blob/main/whatsapp.png" width="20">To contribute on our mission</a>
+   
    - ![Twitter](images/twitter-icon.png) [Follow us on Twitter](https://twitter.com/DeVosTech)
 
 6. **Contribute to Open Source:**
