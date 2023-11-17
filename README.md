@@ -21,7 +21,7 @@ At DeVos, we don't just contribute to our businesses; we contribute to shaping a
 ## Get Involved <a name="get-involved"></a>
 
 1. **Join the Conversation:**
-   - Participate in discussions by joining our [DeVos Discord Channel](#).
+   - Participate in discussions by joining our [Channels](#).
      
    <div class="social-icons-row">
        <a href="#" target="_blank"><img src="https://github.com/DeVos0/DeVos0/blob/main/discord.png" width="20"></a>
