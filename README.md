@@ -23,23 +23,26 @@ At DeVos, we don't just contribute to our businesses; we contribute to shaping a
 1. **Join the Conversation:**
    - Participate in discussions by joining our [DeVos Discord Channel](#).
      
-     <div class="social-icons-row">
-     <a href="#" target="_blank"><img src="https://github.com/DeVos0/DeVos0/blob/main/discord.png" width="20"></a>
-       <a href="#" target="_blank"><img src="https://github.com/DeVos0/DeVos0/blob/main/linkedin.png" width="20"></a>
-       <a href="#" target="_blank"><img src="https://github.com/DeVos0/DeVos0/blob/main/telegram.png" width="20"></a>
-       <a href="#" target="_blank"><img src="https://github.com/DeVos0/DeVos0/blob/main/whatsapp.png" width="20"></a>
+   <div class="social-icons-row">
+       <a href="#" target="_blank"><img src="https://github.com/DeVos0/DeVos0/blob/main/discord.png" width="20"></a>
+       
+     <a href="#" target="_blank"><img src="https://github.com/DeVos0/DeVos0/blob/main/linkedin.png" width="20"></a>
+
+    <a href="#" target="_blank"><img src="https://github.com/DeVos0/DeVos0/blob/main/telegram.png" width="20"></a>
+
+    <a href="#" target="_blank"><img src="https://github.com/DeVos0/DeVos0/blob/main/whatsapp.png" width="20"></a>
    </div>
    
 
     
-2. **Explore Our Projects:**
+3. **Explore Our Projects:**
    - Check out our [Projects](/projects) to see ongoing initiatives and contribute.
 
-3. **Connect with Us:**
+4. **Connect with Us:**
    - Follow us on [Twitter](https://twitter.com/DeVosTech) for the latest updates.
    - ![Twitter](images/twitter-icon.png) [Follow us on Twitter](https://twitter.com/DeVosTech)
 
-4. **Contribute to Open Source:**
+5. **Contribute to Open Source:**
    - Explore our [GitHub Repositories](https://github.com/DeVosTech) and contribute to open-source projects.
 
 ## Join DeVos Tech Hub and Let's Shape the Future Together! 🌟
