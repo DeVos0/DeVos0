@@ -22,7 +22,7 @@ At DeVos, we don't just contribute to our businesses; we contribute to shaping a
 
 1. **Join the Conversation:**
    - Participate in discussions by joining our [DeVos Discord Channel](#).
-   - ![Discord](images/discord-icon.png) [Join us on Discord](#)
+   - ![Discord](https://github.com/DeVos0/DeVos0/blob/main/discord.png) [Join us on Discord](#)
 
 2. **Explore Our Projects:**
    - Check out our [Projects](/projects) to see ongoing initiatives and contribute.
