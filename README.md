@@ -37,10 +37,14 @@ At DeVos, we don't just contribute to our businesses; we contribute to shaping a
    - Check out our [Projects](/projects) to see ongoing initiatives and contribute.
 
 4. **Connect with Us:**
-   - Follow us on [Twitter] <img src="https://github.com/DeVos0/DeVos0/blob/main/x.png" width="20"> for the latest updates.
+
+   -  <div class="social-icons-row">
+      Follow us on <a href="#" target="_blank"><img src="https://github.com/DeVos0/DeVos0/blob/main/x.png" width="20">for the latest updates</a>
+      Joined us on <a href="#" target="_blank"><img src="https://github.com/DeVos0/DeVos0/blob/main/whatsapp.png" width="20">To contribute on our mission</a>
+      </div>
    - ![Twitter](images/twitter-icon.png) [Follow us on Twitter](https://twitter.com/DeVosTech)
 
-5. **Contribute to Open Source:**
+6. **Contribute to Open Source:**
    - Explore our [GitHub Repositories](https://github.com/DeVosTech) and contribute to open-source projects.
 
 ## Join DeVos Tech Hub and Let's Shape the Future Together! 🌟
