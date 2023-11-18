@@ -43,6 +43,6 @@ At DeVos, we don't just contribute to our businesses; we contribute to shaping a
    
 
 6. **Contribute to Open Source:**
-   - Explore our [GitHub Repositories](https://github.com/DeVos) and contribute to open-source projects.
+   - Explore our [GitHub Repositories](https://github.com/DeVos0) and contribute to open-source projects.
 
 ## Join DeVos Tech Hub and Let's Shape the Future Together! 🌟
